@@ -1,0 +1,3 @@
+[submodule "git/Tools"]
+	path = git/Tools
+	url = https://github.com/JoshRockwood/Tools.git
