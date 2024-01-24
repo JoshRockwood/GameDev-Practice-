@@ -1,3 +1,3 @@
-[submodule "GameDev-Practice-/My project/Assets/Tools"]
-	path = GameDev-Practice-/My project/Assets/Tools
+[submodule "My project/Assets/Tools"]
+	path = My project/Assets/Tools
 	url = https://github.com/JoshRockwood/Tools.git
